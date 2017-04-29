@@ -16,10 +16,10 @@ Features
 Actions
 ===========
 
-* View Books
+* View Book
 * Search Books
 * Add Book
-* Edit Book
+* Update Book
 * Delete Book/Copy
 * Checkout Books
 * Checkin Books
